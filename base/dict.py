@@ -40,7 +40,7 @@ else:
 
 if x2 in months:
     print 'x2:ok'
-else:
+else:u
     print 'x2:error'
 
 
